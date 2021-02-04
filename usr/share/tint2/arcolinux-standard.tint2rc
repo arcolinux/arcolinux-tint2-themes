@@ -196,7 +196,6 @@ launcher_icon_theme = Sardi-Mono
 launcher_icon_theme_override = 0
 startup_notifications = 0
 launcher_tooltip = 1
-launcher_item_app = /usr/share/applications/calamares.desktop
 
 #-------------------------------------
 # Clock
