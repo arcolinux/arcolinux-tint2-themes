@@ -163,7 +163,7 @@ clock_dwheel_command =
 
 #-------------------------------------
 # Battery
-battery_tooltip = 1
+battery_tooltip = 0
 battery_low_status = 20
 battery_low_cmd =
 bat1_font = Noto Sans 11
